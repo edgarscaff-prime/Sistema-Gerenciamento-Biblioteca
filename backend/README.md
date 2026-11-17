@@ -32,4 +32,7 @@ Projeto desenvolvido em C# com ASP.NET Core Web API para gerenciamento de materi
 Os materiais são armazenados em memória utilizando Dictionary, por meio de um repositório registrado como Singleton.
 
 ## Autor
-Edgar Scaff
+Edgar Scaff - 114.126
+Yuri Maeda - 114.054
+Samuel Luiz - 114.057
+Gabriel
