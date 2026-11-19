@@ -1,9 +1,10 @@
-# Front-end da Biblioteca
+Front-end da Biblioteca
 ## Integrantes
 
 - Samuel Luiz - RGM 114.057
 - Yuri Mamada - RGM 697.679
-- ...
+- Edgar Scaff - RGM 114.126
+- Gabriel Espiridiao - RGM 114.083
 
 Trabalho final das disciplinas de Programação Orientada a Objetos e Desenvolvimento Web e Mobile I.
 - **`front/`**: página em HTML, CSS, Bootstrap e JavaScript que consome essa API com `fetch`.
@@ -97,23 +98,3 @@ Usamos a validação de formulários do Bootstrap: os campos têm `required` e `
 
 Se algo estiver errado aparece um alerta amarelo. Os erros que a própria API devolve (por exemplo "Material não encontrado." ou "Este material não permite empréstimo.") aparecem em um alerta vermelho.
 
-## Testes realizados
-
-_(preencher pela equipe com o que vocês testaram e o resultado, por exemplo:)_
-
-- [ ] Listar os materiais iniciais
-- [ ] Cadastrar livro e revista
-- [ ] Tentar cadastrar com campos vazios
-- [ ] Editar livro e revista
-- [ ] Excluir material
-- [ ] Emprestar livro (sucesso) e revista (erro)
-- [ ] Consultar ID que não existe
-- [ ] Abrir a página com a API desligada
-
-## Dificuldades e como resolvemos
-
-_(preencher pela equipe)_
-
-## O que cada integrante aprendeu
-
-_(preencher pela equipe)_
